@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorWebAssembly",
   "resources": {
-    "hash": "sha256-jpZe4hjwwxc2USvgNUSVJ/0rWandbuFuaT17WU4hJB4=",
+    "hash": "sha256-kVY4NpSHG8I0jdWSwQXlpTpregEpgmKjxPBMpq2l/Ac=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "DataModel.ayvkj1lsyc.wasm": "DataModel.wasm",
-      "DataModel.otbqoyh3py.pdb": "DataModel.pdb",
-      "BlazorWebAssembly.6roqc1fpo8.wasm": "BlazorWebAssembly.wasm",
-      "BlazorWebAssembly.6fcfi2ikos.pdb": "BlazorWebAssembly.pdb"
+      "DataModel.058k2h22ot.wasm": "DataModel.wasm",
+      "DataModel.ky4ntxvv1e.pdb": "DataModel.pdb",
+      "BlazorWebAssembly.1h7ocd564j.wasm": "BlazorWebAssembly.wasm",
+      "BlazorWebAssembly.zysmzvd94j.pdb": "BlazorWebAssembly.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -414,12 +414,12 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "DataModel.ayvkj1lsyc.wasm": "sha256-wsUN3nk7m8sWQnnTIdX2Wz/F5KRbopkDVui9tp4veSw=",
-      "BlazorWebAssembly.6roqc1fpo8.wasm": "sha256-0l8fNeBy3QEyyfxUTpWKmAc/PtikuwmzvItBZdc/sTs="
+      "DataModel.058k2h22ot.wasm": "sha256-NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY=",
+      "BlazorWebAssembly.1h7ocd564j.wasm": "sha256-KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE="
     },
     "pdb": {
-      "DataModel.otbqoyh3py.pdb": "sha256-XG7fvgUZ/DFK/DdbSWBoEigPWdItyUv1xrhsFNcV+ME=",
-      "BlazorWebAssembly.6fcfi2ikos.pdb": "sha256-oqYx1flQ5GF/eYIu8h6gY2K2GBxaB8W0TD6nqanZlAo="
+      "DataModel.ky4ntxvv1e.pdb": "sha256-3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg=",
+      "BlazorWebAssembly.zysmzvd94j.pdb": "sha256-1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg="
     }
   },
   "cacheBootResources": true,
